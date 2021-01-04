@@ -39,3 +39,8 @@ section{
     color:white;
     font-weight: bold;
 }
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
